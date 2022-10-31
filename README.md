@@ -1,3 +1,5 @@
+[![Build](https://github.com/aled/Wibblr.Cryptography/actions/workflows/dotnet.yml/badge.svg?branch=main)](https://github.com/aled/Wibblr.Cryptography/actions/workflows/dotnet.yml)
+
 ## Crypt
 
 This is a C# implementation of the unix crypt() algorithm from [https://akkadia.org/drepper/SHA-crypt.txt](https://akkadia.org/drepper/SHA-crypt.txt),
